@@ -32,7 +32,7 @@ export const Contact = () => {
                     <article className="contact__option">
                         <FaInstagram className="contact__option-icon" />
                         <h4>Instagram</h4>
-                        <h5>vitorregison01@gmail.com</h5>
+                        <h5>@vitor_regison6</h5>
                         <a href="https://www.instagram.com/vitor_regison6/" target="_blank">Enviar Messagem</a>
                     </article>
                 </div>
